@@ -48,9 +48,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow (Keras), Ta
 
 I focused on **recall** instead of accuracy because the data is imbalanced, and missing a customer who is about to leave costs the bank more than a false alarm. Customers marked as **High risk** by the model actually churned at **70%**.
 
-## Dashboard
-
-Tableau dashboard: [Link](#)
 
 ## Files
 
